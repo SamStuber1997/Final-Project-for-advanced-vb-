@@ -31,4 +31,8 @@ Public Class MainForm
     Private Sub SoldVehiclesToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SoldVehiclesToolStripMenuItem.Click
         FrmSoldVehicles.ShowDialog()
     End Sub
+
+	Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+	End Sub
 End Class

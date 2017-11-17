@@ -99,27 +99,39 @@
     <Compile Include="FrmAddVehicle.designer.vb">
       <DependentUpon>FrmAddVehicle.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmAddVehicle.vb" />
+    <Compile Include="FrmAddVehicle.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmDealerStatus.designer.vb">
       <DependentUpon>FrmDealerStatus.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmDealerStatus.vb" />
+    <Compile Include="FrmDealerStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmInventory.designer.vb">
       <DependentUpon>FrmInventory.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmInventory.vb" />
+    <Compile Include="FrmInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmRemoveVehicle.designer.vb">
       <DependentUpon>FrmRemoveVehicle.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmRemoveVehicle.vb" />
+    <Compile Include="FrmRemoveVehicle.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmSellVehicle.designer.vb">
       <DependentUpon>FrmSellVehicle.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmSellVehicle.vb" />
+    <Compile Include="FrmSellVehicle.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmSoldVehicles.designer.vb">
       <DependentUpon>FrmSoldVehicles.vb</DependentUpon>
     </Compile>
-    <Compile Include="FrmSoldVehicles.vb" />
+    <Compile Include="FrmSoldVehicles.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MainForm.designer.vb">
       <DependentUpon>MainForm.vb</DependentUpon>
     </Compile>
