@@ -209,12 +209,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Stuber%27sAutoSales.mdf">
+    <Content Include="DreamVehicles.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Stuber%27sAutoSales_log.ldf">
+    <Content Include="DreamVehicles_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>Stuber%27sAutoSales.mdf</DependentUpon>
+      <DependentUpon>DreamVehicles.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <ItemGroup>
